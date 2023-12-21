@@ -1,3 +1,6 @@
+<img src="bg.png" align="center" width="100%">
+<hr>
+<br>
 <img src="header.png" align="center">
 
 <br>
